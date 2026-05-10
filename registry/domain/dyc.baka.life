@@ -1,0 +1,5 @@
+domain: dyc.baka.life
+
+mnt-by: DYC-MNT
+
+@ CNAME dyc.im proxied
