@@ -1,0 +1,6 @@
+domain: baka.life
+
+mnt-by: BAKA-LIFE-MNT
+
+@ CNAME nyanloli.com proxied
+www CNAME @ proxied
