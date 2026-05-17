@@ -1,0 +1,5 @@
+domain: worldmap.baka.life
+desc: SquareMap for Minecraft server
+mnt-by: Plana7872-MNT
+@ A 192.0.2.10
+www CNAME @ proxied
